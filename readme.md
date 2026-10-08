@@ -12,7 +12,7 @@
   <a href="https://github.com/your-github-username">
     <img src="https://img.shields.io/badge/SIH-2026%20National%20Finalist-06b6d4?style=for-the-badge&logo=hackaday&logoColor=white" alt="SIH Participant">
   </a>
-  <a href="https://linkedin.com">
+  <a href="www.linkedin.com/in/saicharankannan14">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:contact@saicharan.dev">
